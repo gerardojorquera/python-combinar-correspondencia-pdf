@@ -2,5 +2,4 @@ pandas==3.0.5
 Pillow==12.3.0
 PyPDF2==3.0.1
 reportlab==5.0.0
-streamlit==1.60.0
 streamlit==1.61.1
