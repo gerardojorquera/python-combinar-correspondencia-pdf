@@ -15,7 +15,7 @@ import unicodedata
 # Configuración inicial de la interfaz web
 st.set_page_config(page_title="Generador Masivo de Certificados", page_icon="🎓", layout="wide")
 
-st.title("🎓 Generador Masivo de Certificados de Informática")
+st.title("🎓 Generador Masivo de Certificados")
 st.markdown("Carga tu nómina en Excel, añade los logos corporativos y genera tus diplomas listos para imprimir de forma automatizada.")
 
 # --- SECCIÓN DE AYUDA / NUEVO ESQUEMA SIMPLIFICADO ---
